@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoTWebPanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7d4000015de3c90d4d291d6819ae8112dd4533")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da2efa16f46130440b93c790ab82068d03c9909b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoTWebPanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoTWebPanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

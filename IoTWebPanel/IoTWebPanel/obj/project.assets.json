@@ -2753,11 +2753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\IoTWebPanel.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\IoTWebPanel.csproj",
       "projectName": "IoTWebPanel",
-      "projectPath": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\IoTWebPanel.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\IoTWebPanel.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

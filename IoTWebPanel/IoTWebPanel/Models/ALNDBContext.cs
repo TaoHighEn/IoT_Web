@@ -17,14 +17,34 @@ public partial class ALNDBContext : DbContext
     {
     }
 
+    public virtual DbSet<EquipmentList> EquipmentLists { get; set; }
+
     public virtual DbSet<EventLog> EventLogs { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=MYFISH;Initial Catalog=ALNDB;Persist Security Info=True;User ID=sa;Password=sa;Encrypt=True;TrustServerCertificate=True ");
+        => optionsBuilder.UseSqlServer("Data Source=MYFISH;Initial Catalog=ALNDB;Persist Security Info=True;User ID=sa;Password=sa;Encrypt=True;TrustServerCertificate=true ");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<EquipmentList>(entity =>
+        {
+            entity.HasKey(e => e.Guid);
+
+            entity.ToTable("Equipment_List");
+
+            entity.Property(e => e.Guid)
+                .HasMaxLength(36)
+                .HasColumnName("GUID");
+            entity.Property(e => e.EquipIp)
+                .HasMaxLength(32)
+                .HasColumnName("Equip_IP");
+            entity.Property(e => e.EquipName)
+                .IsRequired()
+                .HasMaxLength(20)
+                .HasColumnName("Equip_Name");
+        });
+
         modelBuilder.Entity<EventLog>(entity =>
         {
             entity.HasKey(e => e.Guid);
@@ -32,7 +52,7 @@ public partial class ALNDBContext : DbContext
             entity.ToTable("EventLog");
 
             entity.Property(e => e.Guid)
-                .HasMaxLength(20)
+                .HasMaxLength(36)
                 .HasColumnName("GUID");
             entity.Property(e => e.Location).HasMaxLength(50);
             entity.Property(e => e.Time).HasColumnType("datetime");

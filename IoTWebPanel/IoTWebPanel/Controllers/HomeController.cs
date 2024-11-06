@@ -17,8 +17,7 @@ namespace IoTWebPanel.Controllers
         {
             using (var db = new ALNDBContext())
             {
-                var ans = db.EventLogs.SingleOrDefault();
-                return View(ans);
+                return View();
             }
         }
 

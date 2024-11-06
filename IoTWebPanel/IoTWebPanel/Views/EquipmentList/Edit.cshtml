@@ -1,0 +1,14 @@
+﻿@model EquipmentList
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@if (Model.EquipName != "NA")
+{
+    <h1>修改：  @Model.EquipName 成功</h1>
+}
+else
+{
+    <h1>修改失敗，查無此資料</h1>
+}

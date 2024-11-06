@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\aiotcredit\\iot_web\\iotwebpanel\\iotwebpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\controllers\\equipmentlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\controllers\\equipmentlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\views\\equipmentlist\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\views\\equipmentlist\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\views\\equipmentlist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\views\\equipmentlist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\models\\alndbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\models\\alndbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\aiotcredit\\iot_web\\iotwebpanel\\iotwebpanel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\views\\equipmentlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\views\\equipmentlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\aiotcredit\\iot_web\\iotwebpanel\\iotwebpanel\\models\\alndbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\models\\alndbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\views\\equipmentlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\views\\equipmentlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\views\\equipmentlist\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\views\\equipmentlist\\select.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\models\\equipmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\models\\equipmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|c:\\users\\user\\desktop\\iot_web\\iotwebpanel\\iotwebpanel\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F397D6C7-9345-4829-9EE9-F50BBE1CD944}|IoTWebPanel\\IoTWebPanel.csproj|solutionrelative:iotwebpanel\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Delete.cshtml",
+              "RelativeDocumentMoniker": "IoTWebPanel\\Views\\EquipmentList\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Delete.cshtml",
+              "RelativeToolTip": "IoTWebPanel\\Views\\EquipmentList\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:35:19.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IoTWebPanel\\Views\\EquipmentList\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Edit.cshtml",
+              "RelativeToolTip": "IoTWebPanel\\Views\\EquipmentList\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:25:19.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Select.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Select.cshtml",
+              "RelativeDocumentMoniker": "IoTWebPanel\\Views\\EquipmentList\\Select.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Select.cshtml",
+              "RelativeToolTip": "IoTWebPanel\\Views\\EquipmentList\\Select.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:07:15.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Index.cshtml",
+              "RelativeDocumentMoniker": "IoTWebPanel\\Views\\EquipmentList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Index.cshtml",
+              "RelativeToolTip": "IoTWebPanel\\Views\\EquipmentList\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T14:04:36.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Create.cshtml",
+              "RelativeDocumentMoniker": "IoTWebPanel\\Views\\EquipmentList\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\EquipmentList\\Create.cshtml",
+              "RelativeToolTip": "IoTWebPanel\\Views\\EquipmentList\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T13:54:03.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EquipmentList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Models\\EquipmentList.cs",
+              "RelativeDocumentMoniker": "IoTWebPanel\\Models\\EquipmentList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Models\\EquipmentList.cs",
+              "RelativeToolTip": "IoTWebPanel\\Models\\EquipmentList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:47:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentListController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Controllers\\EquipmentListController.cs",
+              "RelativeDocumentMoniker": "IoTWebPanel\\Controllers\\EquipmentListController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Controllers\\EquipmentListController.cs",
+              "RelativeToolTip": "IoTWebPanel\\Controllers\\EquipmentListController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:42:52.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\efpt.config.json",
+              "RelativeDocumentMoniker": "IoTWebPanel\\efpt.config.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\efpt.config.json",
+              "RelativeToolTip": "IoTWebPanel\\efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T13:25:13.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IoTWebPanel\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "IoTWebPanel\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-06T11:15:39.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IoTWebPanel\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IoTWebPanel\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T11:14:26.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ALNDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Models\\ALNDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Models\\ALNDBContext.cs",
               "RelativeDocumentMoniker": "IoTWebPanel\\Models\\ALNDBContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Models\\ALNDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\Models\\ALNDBContext.cs",
               "RelativeToolTip": "IoTWebPanel\\Models\\ALNDBContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T11:13:07.522Z",
               "EditorCaption": ""

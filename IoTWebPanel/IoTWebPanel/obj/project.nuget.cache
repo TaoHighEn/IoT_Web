@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hC47fVU8jY4=",
+  "dgSpecHash": "PLJWX5qAe+0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\AIoTCredit\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\IoTWebPanel.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\IoT_Web\\IoTWebPanel\\IoTWebPanel\\IoTWebPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
